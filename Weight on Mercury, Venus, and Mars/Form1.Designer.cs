@@ -131,7 +131,7 @@
             this.Controls.Add(this.txtMercuryWeight);
             this.Controls.Add(this.txtEarthWeight);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Weight on Other Planets";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
